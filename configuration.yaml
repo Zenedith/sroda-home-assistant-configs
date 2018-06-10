@@ -67,7 +67,7 @@ sensor:
       - windSpeed
       - pressure
 #     - windDirection
-#     - humidity
+      - humidity
 #     - fog
 #     - cloudiness
 #     - lowClouds
