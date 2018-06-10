@@ -56,9 +56,6 @@ map:
 sun:
 
 # Weather prediction
-#sensor:
-#  - platform: yr
-
 sensor:
   - platform: yr
     name: Weather
@@ -69,7 +66,7 @@ sensor:
       - precipitation
       - windSpeed
       - pressure
-#      - windDirection
+#     - windDirection
 #     - humidity
 #     - fog
 #     - cloudiness
