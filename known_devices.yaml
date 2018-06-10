@@ -136,14 +136,13 @@ yeelinkkuchnialampa:
   picture:
   track: no
 
-
 pc1921681102:
   hide_if_away: false
   icon:
   mac: 08:66:98:80:FC:5D
   name: PC-192-168-1-102
   picture:
-  track: true
+  track: no
 
 pc90203a068dc9:
   hide_if_away: false
@@ -151,7 +150,7 @@ pc90203a068dc9:
   mac: 90:20:3A:06:8D:C9
   name: PC-90-20-3A-06-8D-C9
   picture:
-  track: true
+  track: no
 
 pc1921681107:
   hide_if_away: false
@@ -159,4 +158,4 @@ pc1921681107:
   mac: D0:D0:FD:0B:F5:DA
   name: PC-192-168-1-107
   picture:
-  track: true
+  track: no
