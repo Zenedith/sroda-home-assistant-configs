@@ -18,9 +18,11 @@ homeassistant:
 
 # Enables the frontend
 frontend:
+  javascript_version: latest
 
 # Enables configuration UI
 config:
+zeroconf:
 
 http:
   base_url: https://zenedith-home-assistant.duckdns.org:8123
