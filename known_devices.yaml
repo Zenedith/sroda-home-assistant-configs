@@ -1,0 +1,146 @@
+pc19216811:
+  hide_if_away: false
+  icon:
+  mac: 24:76:7D:4C:52:91
+  name: PC-192-168-1-1
+  picture:
+  track: no
+
+pc1921681100:
+  hide_if_away: false
+  icon:
+  mac: 70:56:81:97:45:AB
+  name: PC-192-168-1-100
+  picture:
+  track: no
+
+androidhtc:
+  hide_if_away: false
+  icon:
+  mac: 84:7A:88:82:82:67
+  name: android-10f0fb6985391a1f
+  picture:
+  track: no
+
+iphonekatarzyna:
+  hide_if_away: no
+  icon:
+  mac: E4:9A:79:E2:56:78
+  name: iPhoneKatarzyna
+  gravatar: katarzyna.rozala@wp.pl
+  picture:
+  track: true
+
+zeneiphone:
+  hide_if_away: false
+  icon:
+  mac: 80:B0:3D:CD:A5:EB
+  name: Zene-iPhone
+  gravatar: zenedith@wp.pl
+  picture:
+  track: true
+
+yeelinkkuchnialed:
+  hide_if_away: false
+  icon:
+  mac: 78:11:DC:DA:6E:9E
+  name: yeelink-light-strip1_kuchnia
+  picture:
+  track: no
+
+chromecast:
+  hide_if_away: false
+  icon:
+  mac: 44:09:B8:2E:BF:89
+  name: Chromecast-Ultra
+  picture:
+  track: no
+
+gw3:
+  hide_if_away: false
+  icon:
+  mac: 78:11:DC:FA:2E:B9
+  name: lumi-acpartner-v3_miio83815383
+  picture:
+  track: no
+
+rockrobo:
+  hide_if_away: false
+  icon:
+  mac: 78:11:DC:E7:25:15
+  name: rockrobo
+  picture:
+  track: no
+
+sonofflistwartv:
+  hide_if_away: false
+  icon:
+  mac: B4:E6:2D:24:D8:57
+  name: sonoff-listwa-rtv
+  picture:
+  track: no
+
+hassio:
+  hide_if_away: false
+  icon:
+  mac: B8:27:EB:EA:A0:5C
+  name: hassio
+  picture:
+  track: no
+
+pcbcf2af981d8e:
+  hide_if_away: false
+  icon:
+  mac: BC:F2:AF:98:1D:8E
+  name: PC-BC-F2-AF-98-1D-8E
+  picture:
+  track: no
+
+pcbcf2af983ed9:
+  hide_if_away: false
+  icon:
+  mac: BC:F2:AF:98:3E:D9
+  name: PC-BC-F2-AF-98-3E-D9
+  picture:
+  track: no
+
+pcbcf2afd98284:
+  hide_if_away: false
+  icon:
+  mac: BC:F2:AF:D9:82:84
+  name: PC-BC-F2-AF-D9-82-84
+  picture:
+  track: no
+
+xboxone:
+  hide_if_away: false
+  icon:
+  mac: C4:9D:ED:56:8D:A7
+  name: XboxOne
+  picture:
+  track: no
+
+fritzbox:
+  hide_if_away: false
+  icon:
+  mac: 34:31:C4:9A:49:C6
+  name: fritz.box
+  picture:
+  track: no
+
+yeelinkkuchnialampa:
+  hide_if_away: false
+  icon:
+  mac: 7C:49:EB:15:7B:13
+  name: yeelink-light-color2_miio87153152
+  picture:
+  track: no
+
+
+pc1921681102:
+  hide_if_away: false
+  icon:
+  mac: 08:66:98:80:FC:5D
+  name: PC-192-168-1-102
+  picture:
+  track: true

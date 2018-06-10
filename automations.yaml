@@ -1,0 +1,60 @@
+  - alias: 'Kuchnia led zachod slonca'
+    trigger:
+      platform: sun
+      event: sunset
+    action:
+      - service: light.turn_on
+        entity_id: light.kuchnia_led
+      - service: notify.mypushbullet
+        data:
+          message: 'Włączon światło w kuchni'
+          title: 'Home Assistant'
+
+  - alias: 'Kasia w domu'
+    trigger:
+      platform: state
+      entity_id: device_tracker.iphonekatarzyna
+      from: 'not_home'
+      to: 'home'
+    action:
+      - service: notify.mypushbullet
+        data:
+          message: 'Kasia wrocila do domu'
+          title: 'Home Assistant'
+
+  - alias: 'Kasia wyszla z domu'
+    trigger:
+      platform: state
+      entity_id: device_tracker.iphonekatarzyna
+      from: 'home'
+      to: 'not_home'
+    action:
+      - service: notify.mypushbullet
+        data:
+          message: 'Kasia wyszla z domu'
+          title: 'Home Assistant'
+
+  - alias: 'Zene w domu'
+    trigger:
+      platform: state
+      entity_id: device_tracker.zeneiphone
+      from: 'not_home'
+      to: 'home'
+    action:
+      - service: notify.mypushbullet
+        data:
+          message: 'Zene wrocil do domu'
+          title: 'Home Assistant'
+
+  - alias: 'Zene wyszedl z domu'
+    trigger:
+      platform: state
+      entity_id: device_tracker.zeneiphone
+      from: 'home'
+      to: 'not_home'
+    action:
+      - service: notify.mypushbullet
+        data:
+          message: 'Zene wyszedl z domu'
+          title: 'Home Assistant'
+

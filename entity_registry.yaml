@@ -1,0 +1,20 @@
+media_player.salon:
+  name:
+  platform: cast
+  unique_id: 3e58b8fb-0db2-4fc9-0003-c8777daa9bba
+sensor.illumination_7811dcfa2eb9:
+  name: ilumination_gw
+  platform: xiaomi_aqara
+  unique_id: illumination7811dcfa2eb9
+sensor.temperature_158d00022cc215:
+  name: Temperatura
+  platform: xiaomi_aqara
+  unique_id: temperature158d00022cc215
+sensor.pressure_158d00022cc215:
+  name: Ciśnienie (pressure)
+  platform: xiaomi_aqara
+  unique_id: pressure158d00022cc215
+sensor.humidity_158d00022cc215:
+  name: Wilgotność (Humidity)
+  platform: xiaomi_aqara
+  unique_id: humidity158d00022cc215
