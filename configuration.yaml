@@ -24,6 +24,12 @@ frontend:
 config:
 zeroconf:
 
+mqtt:
+  broker: !secret mqtt_broker
+  port: !secret mqtt_port
+  username: !secret mqtt_username
+  password: !secret mqtt_password
+
 http:
   base_url: https://zenedith-home-assistant.duckdns.org:8123
   ssl_certificate: /ssl/fullchain.pem
