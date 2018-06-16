@@ -159,3 +159,19 @@ pc1921681107:
   name: PC-192-168-1-107
   picture:
   track: no
+
+pc1921681116:
+  hide_if_away: false
+  icon:
+  mac: 50:64:2B:14:51:48
+  name: PC-192-168-1-116
+  picture:
+  track: true
+
+pc1921681121:
+  hide_if_away: false
+  icon:
+  mac: 50:64:2B:14:51:47
+  name: PC-192-168-1-121
+  picture:
+  track: true
