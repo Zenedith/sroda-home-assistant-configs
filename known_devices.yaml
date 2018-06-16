@@ -166,7 +166,7 @@ pc1921681116:
   mac: 50:64:2B:14:51:48
   name: PC-192-168-1-116
   picture:
-  track: true
+  track: no
 
 pc1921681121:
   hide_if_away: false
@@ -174,4 +174,4 @@ pc1921681121:
   mac: 50:64:2B:14:51:47
   name: PC-192-168-1-121
   picture:
-  track: true
+  track: no
