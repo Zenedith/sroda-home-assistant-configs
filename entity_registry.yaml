@@ -1,5 +1,5 @@
 media_player.salon:
-  name:
+  name: chromecast ultra
   platform: cast
   unique_id: 3e58b8fb-0db2-4fc9-0003-c8777daa9bba
 sensor.illumination_7811dcfa2eb9:
