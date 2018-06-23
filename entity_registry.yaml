@@ -7,7 +7,7 @@ sensor.illumination_7811dcfa2eb9:
   platform: xiaomi_aqara
   unique_id: illumination7811dcfa2eb9
 sensor.temperature_158d00022cc215:
-  name: Temperatura
+  name: Temperatura pokojowa
   platform: xiaomi_aqara
   unique_id: temperature158d00022cc215
 sensor.pressure_158d00022cc215:
