@@ -175,3 +175,35 @@ pc1921681121:
   name: PC-192-168-1-121
   picture:
   track: no
+
+pc8c8590830a1e:
+  hide_if_away: false
+  icon:
+  mac: 8C:85:90:83:0A:1E
+  name: PC-8C-85-90-83-0A-1E
+  picture:
+  track: true
+
+pc7c49eb1dbff7:
+  hide_if_away: false
+  icon:
+  mac: 7C:49:EB:1D:BF:F7
+  name: PC-7C-49-EB-1D-BF-F7
+  picture:
+  track: true
+
+pcb4e62d24cdc0:
+  hide_if_away: false
+  icon:
+  mac: B4:E6:2D:24:CD:C0
+  name: PC-B4-E6-2D-24-CD-C0
+  picture:
+  track: true
+
+pc1921681123:
+  hide_if_away: false
+  icon:
+  mac: AC:BC:32:C2:AA:C7
+  name: PC-192-168-1-123
+  picture:
+  track: true
