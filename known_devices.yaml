@@ -182,7 +182,7 @@ pc8c8590830a1e:
   mac: 8C:85:90:83:0A:1E
   name: PC-8C-85-90-83-0A-1E
   picture:
-  track: true
+  track: no
 
 pc7c49eb1dbff7:
   hide_if_away: false
@@ -190,7 +190,7 @@ pc7c49eb1dbff7:
   mac: 7C:49:EB:1D:BF:F7
   name: PC-7C-49-EB-1D-BF-F7
   picture:
-  track: true
+  track: no
 
 pcb4e62d24cdc0:
   hide_if_away: false
@@ -198,7 +198,7 @@ pcb4e62d24cdc0:
   mac: B4:E6:2D:24:CD:C0
   name: PC-B4-E6-2D-24-CD-C0
   picture:
-  track: true
+  track: no
 
 pc1921681123:
   hide_if_away: false
@@ -206,4 +206,4 @@ pc1921681123:
   mac: AC:BC:32:C2:AA:C7
   name: PC-192-168-1-123
   picture:
-  track: true
+  track: no
